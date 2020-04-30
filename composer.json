@@ -1,0 +1,11 @@
+{
+    "name": "zgetro/php-i-tunes-api",
+    "description": "just a wrapper of itune open api.",
+    "authors": [
+        {
+            "name": "Chirag Chudasama",
+            "email": "chirag7004classic@gmail.com"
+        }
+    ],
+    "require": {}
+}
