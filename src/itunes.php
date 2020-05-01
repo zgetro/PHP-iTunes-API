@@ -1,5 +1,6 @@
 <?php
 
+
 /**
  * iTunes class.
  *
@@ -12,6 +13,9 @@
  *
  * @see http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.htm For more information about the configuration
  */
+
+namespace zgetro\PHPiTunesAPI;
+
 class itunes
 {
     const API_LOOKUP = 'http://itunes.apple.com/lookup?';
